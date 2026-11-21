@@ -8,9 +8,11 @@
 
 **Vazirmatn Soft** is a soft, rounded version of [Vazirmatn](https://github.com/rastikerdar/vazirmatn), the Persian/Arabic typeface by **Saber Rastikerdar**. The dots are round, stroke ends are round and sharp corners are softened, in all nine weights and the variable font. The letterforms, spacing, shaping, kerning and language support are Vazirmatn's.
 
-Made in memory of Saber Rastikerdar and with respect for his work.
+I made it for my own projects first, then decided to share it. Dedicated to the memory of Saber Rastikerdar, with respect for his work.
 
 [Download](https://github.com/truthofmatthew/vazirmatn-soft/releases/latest) · [Install](#install) · [Use on the web](#use-on-the-web) · [Weights](#weights) · [Design details](#design-details) · [License](#credits-and-license)
+
+<p align="center"><img src="docs/images/morph.gif" alt="A square stroke end and a sharp corner rounding into Vazirmatn Soft" width="640"></p>
 
 <img src="docs/images/comparison.png" alt="The same words in Vazirmatn and Vazirmatn Soft" width="880">
 
