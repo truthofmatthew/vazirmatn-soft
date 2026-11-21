@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.0
+
+- Compact تومان and ریال: type «تومان» or «ریال» followed by «ء». Three تومان forms (inline, two-line with `ss02`, condensed via `salt`), also on U+E000–U+E003
+- `ss03` lowered digits
+- `ss04` Nastaliq-style final ه
+- Stylistic sets have readable names in design apps
+
 ## 1.0.1
 
 - Round ends and softened corners on punctuation and symbols: brackets, braces, parentheses, quotes, guillemets, underscore, slashes, asterisk, hash, math signs and the ellipsis

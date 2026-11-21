@@ -39,7 +39,7 @@
 ```css
 @font-face {
   font-family: 'Vazirmatn Soft';
-  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.0.1/fonts/webfonts/VazirmatnSoft%5Bwght%5D.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.0/fonts/webfonts/VazirmatnSoft%5Bwght%5D.woff2') format('woff2');
   font-weight: 100 900;
   font-style: normal;
   font-display: swap;
@@ -59,14 +59,14 @@ body {
 ```css
 @font-face {
   font-family: 'Vazirmatn Soft';
-  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.0.1/fonts/webfonts/VazirmatnSoft-Regular.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.0/fonts/webfonts/VazirmatnSoft-Regular.woff2') format('woff2');
   font-weight: 400;
   font-display: swap;
 }
 
 @font-face {
   font-family: 'Vazirmatn Soft';
-  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.0.1/fonts/webfonts/VazirmatnSoft-Bold.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.0/fonts/webfonts/VazirmatnSoft-Bold.woff2') format('woff2');
   font-weight: 700;
   font-display: swap;
 }
@@ -114,6 +114,26 @@ body {
 <img src="docs/images/in-use.png" alt="وزیرمتن نرم در فرم ورود و خلاصهٔ سفارش" width="880">
 
 <div dir="rtl" align="right">
+
+## قابلیت‌های OpenType
+
+همهٔ این‌ها در همان یک فایل فونت هست. با CSS روشنشان کنید، یا از پنل OpenType در فیگما، ایلاستریتور و ایندیزاین.
+
+| چه چیزی | چطور | CSS |
+|---|---|---|
+| تومانِ فشرده | «تومان» و بعد «ء» را تایپ کنید (با نیم‌فاصله قبل از ء هم کار می‌کند) | پیش‌فرض روشن است |
+| ریالِ فشرده | «ریال» و بعد «ء» | پیش‌فرض روشن است |
+| تومانِ دوخطی | تومان فشرده همراه `ss02` | `font-feature-settings: "ss02";` |
+| شکل‌های دیگر تومان | `salt` | `font-feature-settings: "salt";` |
+| اعداد فارسی به‌جای اعداد لاتین | `ss01` | `font-feature-settings: "ss01";` |
+| اعداد پایین‌تر از کرسی | `ss03` | `font-feature-settings: "ss03";` |
+| اعداد هم‌عرض (جدولی) | `tnum` | `font-variant-numeric: tabular-nums;` |
+| «ه» پایانی به سبک نستعلیق | `ss04` | `font-feature-settings: "ss04";` |
+| کشیده | بین حروف «ـ» تایپ کنید | |
+
+در برنامه‌هایی که قابلیت OpenType ندارند، شکل‌های فشرده را مستقیم تایپ کنید: U+E000 (تومان)، U+E001 (تومان دوخطی)، U+E002 (تومان باریک)، U+E003 (ریال).
+
+می‌شود چند قابلیت را با هم روشن کرد؛ مثلاً برای قیمت‌ها با اعداد فارسی و هم‌عرض: `font-feature-settings: "ss01", "tnum";`. بستهٔ npm این‌ها را به شکل کلاس‌های آماده در `features.css` دارد.
 
 ## جزئیات طراحی
 
