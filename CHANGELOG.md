@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1
+
+- Compact تومان / ریال now also work on pages and documents set to Persian, Kurdish or Arabic (1.1.0 only applied them for the default language)
+
 ## 1.1.0
 
 - Compact تومان and ریال: type «تومان» or «ریال» followed by «ء». Three تومان forms (inline, two-line with `ss02`, condensed via `salt`), also on U+E000–U+E003

@@ -39,7 +39,7 @@
 ```css
 @font-face {
   font-family: 'Vazirmatn Soft';
-  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.0/fonts/webfonts/VazirmatnSoft%5Bwght%5D.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.1/fonts/webfonts/VazirmatnSoft%5Bwght%5D.woff2') format('woff2');
   font-weight: 100 900;
   font-style: normal;
   font-display: swap;
@@ -59,14 +59,14 @@ body {
 ```css
 @font-face {
   font-family: 'Vazirmatn Soft';
-  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.0/fonts/webfonts/VazirmatnSoft-Regular.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.1/fonts/webfonts/VazirmatnSoft-Regular.woff2') format('woff2');
   font-weight: 400;
   font-display: swap;
 }
 
 @font-face {
   font-family: 'Vazirmatn Soft';
-  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.0/fonts/webfonts/VazirmatnSoft-Bold.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.1/fonts/webfonts/VazirmatnSoft-Bold.woff2') format('woff2');
   font-weight: 700;
   font-display: swap;
 }
@@ -124,7 +124,7 @@ body {
 | تومانِ فشرده | «تومان» و بعد «ء» را تایپ کنید (با نیم‌فاصله قبل از ء هم کار می‌کند) | پیش‌فرض روشن است |
 | ریالِ فشرده | «ریال» و بعد «ء» | پیش‌فرض روشن است |
 | تومانِ دوخطی | تومان فشرده همراه `ss02` | `font-feature-settings: "ss02";` |
-| شکل‌های دیگر تومان | `salt` | `font-feature-settings: "salt";` |
+| تومانِ باریک | `salt`، شکل دوم | `font-feature-settings: "salt" 2;` |
 | اعداد فارسی به‌جای اعداد لاتین | `ss01` | `font-feature-settings: "ss01";` |
 | اعداد پایین‌تر از کرسی | `ss03` | `font-feature-settings: "ss03";` |
 | اعداد هم‌عرض (جدولی) | `tnum` | `font-variant-numeric: tabular-nums;` |

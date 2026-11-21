@@ -31,7 +31,7 @@ The variable font has every weight from 100 to 900 in one file. Add this to your
 ```css
 @font-face {
   font-family: 'Vazirmatn Soft';
-  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.0/fonts/webfonts/VazirmatnSoft%5Bwght%5D.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.1/fonts/webfonts/VazirmatnSoft%5Bwght%5D.woff2') format('woff2');
   font-weight: 100 900;
   font-style: normal;
   font-display: swap;
@@ -47,14 +47,14 @@ To use separate files per weight instead, add one `@font-face` for each weight y
 ```css
 @font-face {
   font-family: 'Vazirmatn Soft';
-  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.0/fonts/webfonts/VazirmatnSoft-Regular.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.1/fonts/webfonts/VazirmatnSoft-Regular.woff2') format('woff2');
   font-weight: 400;
   font-display: swap;
 }
 
 @font-face {
   font-family: 'Vazirmatn Soft';
-  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.0/fonts/webfonts/VazirmatnSoft-Bold.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.1/fonts/webfonts/VazirmatnSoft-Bold.woff2') format('woff2');
   font-weight: 700;
   font-display: swap;
 }
@@ -102,7 +102,7 @@ One font file covers all of these. Turn them on with CSS, or from the OpenType p
 | Compact تومان | type «تومان» then «ء» (a ZWNJ before ء also works) | on by default |
 | Compact ریال | type «ریال» then «ء» | on by default |
 | Two-line تومان | compact تومان with `ss02` | `font-feature-settings: "ss02";` |
-| Other تومان forms | `salt` (alternates) | `font-feature-settings: "salt";` |
+| Condensed تومان | `salt`, second alternate | `font-feature-settings: "salt" 2;` |
 | Persian digits from Latin digits | `ss01` | `font-feature-settings: "ss01";` |
 | Lowered digits | `ss03` | `font-feature-settings: "ss03";` |
 | Tabular (fixed-width) digits | `tnum` | `font-variant-numeric: tabular-nums;` |
