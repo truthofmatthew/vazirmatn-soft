@@ -39,7 +39,7 @@
 ```css
 @font-face {
   font-family: 'Vazirmatn Soft';
-  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.0.0/fonts/webfonts/VazirmatnSoft%5Bwght%5D.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.0.1/fonts/webfonts/VazirmatnSoft%5Bwght%5D.woff2') format('woff2');
   font-weight: 100 900;
   font-style: normal;
   font-display: swap;
@@ -59,14 +59,14 @@ body {
 ```css
 @font-face {
   font-family: 'Vazirmatn Soft';
-  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.0.0/fonts/webfonts/VazirmatnSoft-Regular.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.0.1/fonts/webfonts/VazirmatnSoft-Regular.woff2') format('woff2');
   font-weight: 400;
   font-display: swap;
 }
 
 @font-face {
   font-family: 'Vazirmatn Soft';
-  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.0.0/fonts/webfonts/VazirmatnSoft-Bold.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.0.1/fonts/webfonts/VazirmatnSoft-Bold.woff2') format('woff2');
   font-weight: 700;
   font-display: swap;
 }

@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1
+
+- Round ends and softened corners on punctuation and symbols: brackets, braces, parentheses, quotes, guillemets, underscore, slashes, asterisk, hash, math signs and the ellipsis
+- CDN links in the README point to v1.0.1
+
 ## 1.0.0
 
 First release of Vazirmatn Soft, based on Vazirmatn 33.003.
