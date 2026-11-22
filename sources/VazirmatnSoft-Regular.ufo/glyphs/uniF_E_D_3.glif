@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFED3" format="2">
+  <advance width="936"/>
+  <unicode hex="FED3"/>
+  <anchor x="431" y="1655" name="Anchor110"/>
+  <anchor x="357" y="-249" name="Anchor107"/>
+  <outline>
+    <component base="arabic_dot" xOffset="340" yOffset="1256"/>
+    <component base="uni06A1.init"/>
+  </outline>
+</glyph>

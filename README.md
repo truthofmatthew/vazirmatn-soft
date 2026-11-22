@@ -33,7 +33,7 @@ The variable font has every weight from 100 to 900 in one file. Add this to your
 ```css
 @font-face {
   font-family: 'Vazirmatn Soft';
-  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.1/fonts/webfonts/VazirmatnSoft%5Bwght%5D.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.2/fonts/webfonts/VazirmatnSoft%5Bwght%5D.woff2') format('woff2');
   font-weight: 100 900;
   font-style: normal;
   font-display: swap;
@@ -49,14 +49,14 @@ To use separate files per weight instead, add one `@font-face` for each weight y
 ```css
 @font-face {
   font-family: 'Vazirmatn Soft';
-  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.1/fonts/webfonts/VazirmatnSoft-Regular.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.2/fonts/webfonts/VazirmatnSoft-Regular.woff2') format('woff2');
   font-weight: 400;
   font-display: swap;
 }
 
 @font-face {
   font-family: 'Vazirmatn Soft';
-  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.1/fonts/webfonts/VazirmatnSoft-Bold.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.2/fonts/webfonts/VazirmatnSoft-Bold.woff2') format('woff2');
   font-weight: 700;
   font-display: swap;
 }
@@ -166,6 +166,15 @@ Every change is made to Vazirmatn's three masters (Thin, Regular, Black) with th
 **Unchanged.** Shaping, ligatures, kerning, mark positioning, Persian, Arabic, Urdu and Kurdish support, and the Latin letters (from Roboto) are exactly as in Vazirmatn.
 
 **Checked.** Every weight passes FontBakery's universal checks with no failures, has no self-overlapping outlines, and fully supports Persian according to Shaperglot.
+
+## Build from source
+
+`sources/` holds the three masters (Thin, Regular, Black) as UFOs with a designspace, built with Google Fonts' standard tool:
+
+```bash
+pip install -r requirements.txt
+cd sources && gftools builder config.yaml   # fonts go to fonts/
+```
 
 ## Credits and license
 

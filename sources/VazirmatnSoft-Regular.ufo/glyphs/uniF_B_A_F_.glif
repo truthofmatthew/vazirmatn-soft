@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFBAF" format="2">
+  <advance width="1648"/>
+  <unicode hex="FBAF"/>
+  <anchor x="948" y="-663" name="Anchor107"/>
+  <anchor x="913" y="542" name="Anchor110"/>
+  <outline>
+    <contour>
+      <point x="1261" y="182" type="line"/>
+      <point x="1712" y="182" type="line"/>
+      <point x="1712" y="0" type="line"/>
+      <point x="1261" y="0" type="line"/>
+    </contour>
+    <component base="uniFBAF.compact"/>
+  </outline>
+</glyph>

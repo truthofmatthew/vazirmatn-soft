@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright" format="2">
+  <advance width="439"/>
+  <unicode hex="005D"/>
+  <outline>
+    <contour>
+      <point x="264" y="1659"/>
+      <point x="270" y="1653"/>
+      <point x="270" y="1646" type="curve"/>
+      <point x="270" y="-294" type="line"/>
+      <point x="270" y="-301"/>
+      <point x="264" y="-307"/>
+      <point x="257" y="-307" type="curve"/>
+      <point x="14" y="-307" type="line"/>
+      <point x="2" y="-307"/>
+      <point x="-8" y="-297"/>
+      <point x="-8" y="-285" type="curve"/>
+      <point x="-8" y="-280" type="line"/>
+      <point x="-8" y="-268"/>
+      <point x="2" y="-258"/>
+      <point x="14" y="-258" type="curve"/>
+      <point x="212" y="-258" type="line"/>
+      <point x="216" y="-258"/>
+      <point x="220" y="-254"/>
+      <point x="220" y="-250" type="curve"/>
+      <point x="220" y="1602" type="line"/>
+      <point x="220" y="1606"/>
+      <point x="216" y="1610"/>
+      <point x="212" y="1610" type="curve"/>
+      <point x="14" y="1610" type="line"/>
+      <point x="2" y="1610"/>
+      <point x="-8" y="1620"/>
+      <point x="-8" y="1632" type="curve"/>
+      <point x="-8" y="1637" type="line"/>
+      <point x="-8" y="1649"/>
+      <point x="2" y="1659"/>
+      <point x="14" y="1659" type="curve"/>
+      <point x="257" y="1659" type="line"/>
+    </contour>
+  </outline>
+</glyph>

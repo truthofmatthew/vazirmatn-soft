@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="backslash" format="2">
+  <advance width="841"/>
+  <unicode hex="005C"/>
+  <guideline y="901" identifier="CU5vmyoE3u"/>
+  <guideline y="555" identifier="IkUwt7LXFC"/>
+  <outline>
+    <contour>
+      <point x="635" y="-88"/>
+      <point x="688" y="-125"/>
+      <point x="737" y="-125" type="curve" smooth="yes"/>
+      <point x="786" y="-125"/>
+      <point x="811" y="-88"/>
+      <point x="793" y="-43" type="curve"/>
+      <point x="249" y="1374" type="line"/>
+      <point x="231" y="1419"/>
+      <point x="178" y="1456"/>
+      <point x="129" y="1456" type="curve" smooth="yes"/>
+      <point x="80" y="1456"/>
+      <point x="55" y="1419"/>
+      <point x="73" y="1374" type="curve"/>
+      <point x="617" y="-43" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.CU5vmyoE3u</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.IkUwt7LXFC</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

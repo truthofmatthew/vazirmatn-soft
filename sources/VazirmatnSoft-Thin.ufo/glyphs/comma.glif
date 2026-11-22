@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comma" format="2">
+  <advance width="383"/>
+  <unicode hex="002C"/>
+  <guideline y="901" identifier="aHGsTC9TLx"/>
+  <guideline y="555" identifier="TG99j3ucjf"/>
+  <outline>
+    <contour>
+      <point x="235" y="147"/>
+      <point x="223" y="159"/>
+      <point x="208" y="159" type="curve" smooth="yes"/>
+      <point x="193" y="159"/>
+      <point x="181" y="147"/>
+      <point x="181" y="132" type="curve"/>
+      <point x="181" y="25" type="line"/>
+      <point x="181" y="-69"/>
+      <point x="157" y="-133"/>
+      <point x="107" y="-203" type="curve"/>
+      <point x="98" y="-214"/>
+      <point x="100" y="-230"/>
+      <point x="110" y="-239" type="curve" smooth="yes"/>
+      <point x="121" y="-248"/>
+      <point x="136" y="-247"/>
+      <point x="145" y="-237" type="curve"/>
+      <point x="199" y="-172"/>
+      <point x="235" y="-85"/>
+      <point x="235" y="27" type="curve"/>
+      <point x="235" y="132" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.TG99j3ucjf</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.aHGsTC9TLx</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

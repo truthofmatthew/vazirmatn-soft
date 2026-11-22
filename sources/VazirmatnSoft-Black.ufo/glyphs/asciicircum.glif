@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciicircum" format="2">
+  <advance width="917"/>
+  <unicode hex="005E"/>
+  <guideline y="181" identifier="tgB7nqrVx7"/>
+  <guideline y="526" identifier="JdaqHMPgLv"/>
+  <outline>
+    <contour>
+      <point x="503" y="1364" type="line"/>
+      <point x="514" y="1415"/>
+      <point x="481" y="1456"/>
+      <point x="429" y="1456" type="curve" smooth="yes"/>
+      <point x="377" y="1456"/>
+      <point x="319" y="1417"/>
+      <point x="299" y="1369" type="curve"/>
+      <point x="84" y="846" type="line"/>
+      <point x="58" y="782"/>
+      <point x="93" y="729"/>
+      <point x="163" y="729" type="curve" smooth="yes"/>
+      <point x="233" y="729"/>
+      <point x="310" y="782"/>
+      <point x="335" y="848" type="curve"/>
+      <point x="467" y="1201" type="line"/>
+    </contour>
+    <contour>
+      <point x="610" y="782"/>
+      <point x="687" y="729"/>
+      <point x="757" y="729" type="curve" smooth="yes"/>
+      <point x="827" y="729"/>
+      <point x="862" y="782"/>
+      <point x="836" y="846" type="curve"/>
+      <point x="621" y="1369" type="line"/>
+      <point x="601" y="1417"/>
+      <point x="543" y="1456"/>
+      <point x="491" y="1456" type="curve" smooth="yes"/>
+      <point x="439" y="1456"/>
+      <point x="406" y="1415"/>
+      <point x="417" y="1364" type="curve"/>
+      <point x="453" y="1201" type="line"/>
+      <point x="585" y="848" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.JdaqHMPgLv</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.tgB7nqrVx7</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

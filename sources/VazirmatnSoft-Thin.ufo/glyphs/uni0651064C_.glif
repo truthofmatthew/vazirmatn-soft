@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0651064C" format="2">
+  <anchor x="332" y="965" name="_Anchor110"/>
+  <anchor x="332" y="965" name="_Anchor109"/>
+  <anchor x="310" y="1876" name="Anchor101"/>
+  <anchor x="332" y="965" name="_Anchor101"/>
+  <outline>
+    <component base="uni064C" xOffset="-46" yOffset="402"/>
+    <component base="uni0651" xOffset="12" yOffset="-41"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamVabove_alef.isol" format="2">
+  <advance width="1164"/>
+  <anchor x="206" y="1465" name="Anchor109"/>
+  <anchor x="922" y="1968" name="Anchor109"/>
+  <anchor x="891" y="-255" name="Anchor106"/>
+  <anchor x="317" y="-259" name="Anchor106"/>
+  <outline>
+    <component base="uni065A" xOffset="339" yOffset="48"/>
+    <component base="uniFEFB"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="toman.compact2" format="2">
+  <advance width="2036"/>
+  <unicode hex="E001"/>
+  <outline>
+    <component base="uniFE97" xScale="0.66" yScale="0.66" xOffset="1133"/>
+    <component base="uniFEEE" xScale="0.66" yScale="0.66" xOffset="518"/>
+    <component base="uniFEE3" xScale="0.66" yScale="0.66" xOffset="1287" yOffset="956"/>
+    <component base="uniFE8E" xScale="0.66" yScale="0.66" xOffset="933" yOffset="956"/>
+    <component base="uni0646" xScale="0.66" yScale="0.66" xOffset="6" yOffset="956"/>
+  </outline>
+</glyph>

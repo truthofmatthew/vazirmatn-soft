@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni06CA.fina" format="2">
+  <advance width="911"/>
+  <anchor x="431" y="-644" name="Anchor107"/>
+  <anchor x="436" y="1325" name="Anchor110"/>
+  <outline>
+    <component base="arabic_2dots" xOffset="174" yOffset="929"/>
+    <component base="uniFEEE"/>
+  </outline>
+</glyph>

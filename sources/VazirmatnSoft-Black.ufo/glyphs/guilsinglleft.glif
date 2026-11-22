@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglleft" format="2">
+  <advance width="651"/>
+  <unicode hex="2039"/>
+  <guideline y="901" identifier="X5cDyGpJss"/>
+  <guideline y="555" identifier="ebA6Vbuz4Q"/>
+  <outline>
+    <contour>
+      <point x="571" y="887"/>
+      <point x="555" y="915"/>
+      <point x="515" y="915" type="curve"/>
+      <point x="453" y="915" type="line"/>
+      <point x="413" y="915"/>
+      <point x="362" y="889"/>
+      <point x="340" y="856" type="curve"/>
+      <point x="108" y="525" type="line"/>
+      <point x="108" y="512" type="line"/>
+      <point x="352" y="511" type="line"/>
+      <point x="551" y="853" type="line"/>
+    </contour>
+    <contour>
+      <point x="108" y="519" type="line"/>
+      <point x="108" y="506" type="line"/>
+      <point x="340" y="175" type="line"/>
+      <point x="362" y="142"/>
+      <point x="413" y="116"/>
+      <point x="453" y="116" type="curve"/>
+      <point x="515" y="116" type="line"/>
+      <point x="555" y="116"/>
+      <point x="571" y="144"/>
+      <point x="551" y="178" type="curve"/>
+      <point x="352" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.X5cDyGpJss</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.ebA6Vbuz4Q</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

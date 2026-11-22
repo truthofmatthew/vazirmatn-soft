@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="extender" format="2">
+  <advance width="307"/>
+  <anchor x="151" y="789" name="Anchor110"/>
+  <anchor x="155" y="-311" name="Anchor107"/>
+  <outline>
+    <contour>
+      <point x="-18" y="62" type="line"/>
+      <point x="371" y="62" type="line"/>
+      <point x="371" y="0" type="line"/>
+      <point x="-18" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFEF4.long3" format="2">
+  <advance width="914"/>
+  <anchor x="558" y="987" name="Anchor110"/>
+  <anchor x="371" y="-581" name="Anchor107"/>
+  <outline>
+    <component base="uniFBFF.long3"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0762.init" format="2">
+  <advance width="939"/>
+  <anchor x="342" y="1856" name="Anchor110"/>
+  <anchor x="368" y="-243" name="Anchor107"/>
+  <outline>
+    <component base="arabic_dot" xOffset="251" yOffset="1435"/>
+    <component base="uniFEDB"/>
+  </outline>
+</glyph>

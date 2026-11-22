@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni067C.medi.long" format="2">
+  <advance width="808"/>
+  <anchor x="353" y="1173" name="Anchor110"/>
+  <anchor x="378" y="-388" name="Anchor107"/>
+  <outline>
+    <contour>
+      <point x="-20" y="62" type="line"/>
+      <point x="125" y="62" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="-20" y="0" type="line"/>
+    </contour>
+    <component base="uniFBBF" xOffset="76" yOffset="243"/>
+    <component base="uni066E.medi" xOffset="118"/>
+    <component base="arabic_2dots" xOffset="77" yOffset="741"/>
+  </outline>
+</glyph>

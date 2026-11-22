@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFBB1" format="2">
+  <advance width="1644"/>
+  <unicode hex="FBB1"/>
+  <anchor x="679" y="871" name="Anchor110"/>
+  <anchor x="948" y="-663" name="Anchor107"/>
+  <outline>
+    <contour>
+      <point x="1257" y="182" type="line"/>
+      <point x="1708" y="182" type="line"/>
+      <point x="1708" y="0" type="line"/>
+      <point x="1257" y="0" type="line"/>
+    </contour>
+    <component base="uniFBB1.compact"/>
+  </outline>
+</glyph>

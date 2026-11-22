@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFBA5.fina" format="2">
+  <advance width="1062"/>
+  <unicode hex="FBA5"/>
+  <anchor x="509" y="-245" name="Anchor107"/>
+  <anchor x="687" y="1846" name="Anchor110"/>
+  <outline>
+    <component base="NameMe.65565" xOffset="202" yOffset="1487"/>
+    <component base="uniFEEA"/>
+  </outline>
+</glyph>

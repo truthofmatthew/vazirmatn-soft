@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFEEC.long" format="2">
+  <advance width="1100"/>
+  <anchor x="676" y="-748" name="Anchor107"/>
+  <anchor x="629" y="1179" name="Anchor110"/>
+  <outline>
+    <contour>
+      <point x="-18" y="310" type="line"/>
+      <point x="82" y="310" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="-18" y="0" type="line"/>
+    </contour>
+    <component base="uniFEEC" xOffset="80"/>
+  </outline>
+</glyph>

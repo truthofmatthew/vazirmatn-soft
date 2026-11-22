@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE95" format="2">
+  <advance width="1731"/>
+  <unicode hex="FE95"/>
+  <anchor x="871" y="-224" name="Anchor107"/>
+  <anchor x="872" y="1062" name="Anchor110"/>
+  <outline>
+    <component base="uni062A"/>
+  </outline>
+</glyph>

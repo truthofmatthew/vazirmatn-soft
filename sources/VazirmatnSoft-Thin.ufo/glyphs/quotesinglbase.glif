@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesinglbase" format="2">
+  <advance width="300"/>
+  <unicode hex="201A"/>
+  <guideline y="901" identifier="0uFd0Pc3oN"/>
+  <guideline y="555" identifier="WJmPkZ5lWb"/>
+  <outline>
+    <contour>
+      <point x="190" y="216"/>
+      <point x="178" y="228"/>
+      <point x="163" y="228" type="curve" smooth="yes"/>
+      <point x="148" y="228"/>
+      <point x="136" y="216"/>
+      <point x="136" y="201" type="curve"/>
+      <point x="136" y="98" type="line"/>
+      <point x="136" y="4"/>
+      <point x="112" y="-60"/>
+      <point x="62" y="-130" type="curve"/>
+      <point x="53" y="-141"/>
+      <point x="55" y="-157"/>
+      <point x="66" y="-166" type="curve" smooth="yes"/>
+      <point x="76" y="-175"/>
+      <point x="91" y="-174"/>
+      <point x="100" y="-164" type="curve"/>
+      <point x="154" y="-99"/>
+      <point x="190" y="-12"/>
+      <point x="190" y="100" type="curve"/>
+      <point x="190" y="201" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.0uFd0Pc3oN</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.WJmPkZ5lWb</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

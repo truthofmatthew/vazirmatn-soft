@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="856"/>
+  <unicode hex="002A"/>
+  <guideline y="901" identifier="2Z2335tFYU"/>
+  <guideline y="555" identifier="DwUKeNPvyN"/>
+  <outline>
+    <contour>
+      <point x="194" y="668"/>
+      <point x="211" y="671"/>
+      <point x="220" y="684" type="curve"/>
+      <point x="427" y="979" type="line"/>
+      <point x="430" y="983"/>
+      <point x="434" y="983"/>
+      <point x="437" y="979" type="curve"/>
+      <point x="657" y="687" type="line"/>
+      <point x="666" y="674"/>
+      <point x="685" y="671"/>
+      <point x="698" y="680" type="curve"/>
+      <point x="710" y="690"/>
+      <point x="713" y="707"/>
+      <point x="703" y="720" type="curve"/>
+      <point x="477" y="1007" type="line"/>
+      <point x="474" y="1011"/>
+      <point x="476" y="1015"/>
+      <point x="480" y="1017" type="curve"/>
+      <point x="806" y="1141" type="line"/>
+      <point x="820" y="1146"/>
+      <point x="828" y="1163"/>
+      <point x="822" y="1178" type="curve"/>
+      <point x="816" y="1192"/>
+      <point x="800" y="1199"/>
+      <point x="786" y="1193" type="curve"/>
+      <point x="468" y="1064" type="line"/>
+      <point x="464" y="1062"/>
+      <point x="460" y="1065"/>
+      <point x="460" y="1069" type="curve"/>
+      <point x="467" y="1428" type="line"/>
+      <point x="467" y="1443"/>
+      <point x="454" y="1456"/>
+      <point x="439" y="1456" type="curve"/>
+      <point x="424" y="1456"/>
+      <point x="411" y="1443"/>
+      <point x="411" y="1428" type="curve"/>
+      <point x="410" y="1070" type="line"/>
+      <point x="410" y="1066"/>
+      <point x="406" y="1063"/>
+      <point x="402" y="1065" type="curve"/>
+      <point x="75" y="1185" type="line"/>
+      <point x="60" y="1191"/>
+      <point x="44" y="1183"/>
+      <point x="39" y="1168" type="curve"/>
+      <point x="34" y="1153"/>
+      <point x="42" y="1137"/>
+      <point x="57" y="1132" type="curve"/>
+      <point x="385" y="1020" type="line"/>
+      <point x="389" y="1018"/>
+      <point x="391" y="1014"/>
+      <point x="388" y="1010" type="curve"/>
+      <point x="175" y="715" type="line"/>
+      <point x="166" y="703"/>
+      <point x="169" y="686"/>
+      <point x="182" y="677" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.2Z2335tFYU</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.DwUKeNPvyN</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

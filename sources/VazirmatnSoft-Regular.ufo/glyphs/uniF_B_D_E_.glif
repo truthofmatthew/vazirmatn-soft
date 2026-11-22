@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFBDE" format="2">
+  <advance width="910"/>
+  <unicode hex="FBDE"/>
+  <anchor x="436" y="1539" name="Anchor110"/>
+  <anchor x="437" y="-651" name="Anchor107"/>
+  <outline>
+    <component base="uni06CB"/>
+  </outline>
+</glyph>

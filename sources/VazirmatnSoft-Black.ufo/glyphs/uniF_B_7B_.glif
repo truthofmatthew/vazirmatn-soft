@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFB7B" format="2">
+  <advance width="1440"/>
+  <unicode hex="FB7B"/>
+  <anchor x="755" y="-872" name="Anchor107"/>
+  <anchor x="590" y="1257" name="Anchor110"/>
+  <outline>
+    <contour>
+      <point x="818" y="-212" type="curve" smooth="yes"/>
+      <point x="818" y="-271"/>
+      <point x="770" y="-318"/>
+      <point x="709" y="-318" type="curve" smooth="yes"/>
+      <point x="648" y="-318"/>
+      <point x="599" y="-271"/>
+      <point x="599" y="-212" type="curve" smooth="yes"/>
+      <point x="599" y="-153"/>
+      <point x="648" y="-106"/>
+      <point x="709" y="-106" type="curve" smooth="yes"/>
+      <point x="770" y="-106"/>
+      <point x="818" y="-153"/>
+    </contour>
+    <contour>
+      <point x="952" y="10" type="curve" smooth="yes"/>
+      <point x="952" y="-49"/>
+      <point x="904" y="-95"/>
+      <point x="843" y="-95" type="curve" smooth="yes"/>
+      <point x="782" y="-95"/>
+      <point x="733" y="-49"/>
+      <point x="733" y="10" type="curve" smooth="yes"/>
+      <point x="733" y="70"/>
+      <point x="782" y="116"/>
+      <point x="843" y="116" type="curve" smooth="yes"/>
+      <point x="904" y="116"/>
+      <point x="952" y="70"/>
+    </contour>
+    <contour>
+      <point x="684" y="10" type="curve" smooth="yes"/>
+      <point x="684" y="-49"/>
+      <point x="636" y="-95"/>
+      <point x="575" y="-95" type="curve" smooth="yes"/>
+      <point x="514" y="-95"/>
+      <point x="465" y="-49"/>
+      <point x="465" y="10" type="curve" smooth="yes"/>
+      <point x="465" y="70"/>
+      <point x="514" y="116"/>
+      <point x="575" y="116" type="curve" smooth="yes"/>
+      <point x="636" y="116"/>
+      <point x="684" y="70"/>
+    </contour>
+    <component base="uniFEA2"/>
+  </outline>
+</glyph>

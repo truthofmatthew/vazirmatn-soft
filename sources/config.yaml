@@ -1,0 +1,11 @@
+sources:
+  - VazirmatnSoft.designspace
+familyName: Vazirmatn Soft
+outputDir: "../fonts"
+buildVariable: true
+buildStatic: true
+buildWebfont: true
+autohintTTF: false
+axisOrder:
+  - wght
+buildSmallCap: false

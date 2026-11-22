@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arabic_gaf_bar" format="2">
+  <advance width="787"/>
+  <outline>
+    <contour>
+      <point x="37" y="1597" type="line"/>
+      <point x="-1" y="1582"/>
+      <point x="-45" y="1600"/>
+      <point x="-60" y="1638" type="curve"/>
+      <point x="-75" y="1676"/>
+      <point x="-57" y="1719"/>
+      <point x="-19" y="1735" type="curve"/>
+      <point x="666" y="2014" type="line"/>
+      <point x="704" y="2029"/>
+      <point x="748" y="2011"/>
+      <point x="763" y="1973" type="curve"/>
+      <point x="778" y="1935"/>
+      <point x="760" y="1892"/>
+      <point x="722" y="1876" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

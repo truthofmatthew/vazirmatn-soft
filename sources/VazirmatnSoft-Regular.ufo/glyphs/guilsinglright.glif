@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglright" format="2">
+  <advance width="615"/>
+  <unicode hex="203A"/>
+  <guideline y="98" identifier="3IwHzTItPT"/>
+  <guideline y="443" identifier="aekOXsTQGu"/>
+  <outline>
+    <contour>
+      <point x="100" y="169"/>
+      <point x="109" y="153"/>
+      <point x="132" y="153" type="curve"/>
+      <point x="190" y="153" type="line"/>
+      <point x="213" y="153"/>
+      <point x="243" y="168"/>
+      <point x="258" y="187" type="curve"/>
+      <point x="527" y="541" type="line"/>
+      <point x="527" y="554" type="line"/>
+      <point x="351" y="555" type="line"/>
+      <point x="113" y="188" type="line"/>
+    </contour>
+    <contour>
+      <point x="109" y="949"/>
+      <point x="100" y="933"/>
+      <point x="113" y="914" type="curve"/>
+      <point x="351" y="546" type="line"/>
+      <point x="527" y="547" type="line"/>
+      <point x="527" y="560" type="line"/>
+      <point x="258" y="915" type="line"/>
+      <point x="243" y="934"/>
+      <point x="213" y="949"/>
+      <point x="190" y="949" type="curve"/>
+      <point x="132" y="949" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.3IwHzTItPT</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.aekOXsTQGu</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

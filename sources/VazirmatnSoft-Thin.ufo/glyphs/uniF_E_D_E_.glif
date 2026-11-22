@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFEDE" format="2">
+  <advance width="1352"/>
+  <unicode hex="FEDE"/>
+  <anchor x="609" y="-696" name="Anchor107"/>
+  <anchor x="581" y="992" name="Anchor110"/>
+  <outline>
+    <contour>
+      <point x="129" y="62"/>
+      <point x="148" y="153"/>
+      <point x="180" y="242" type="curve"/>
+      <point x="184" y="254"/>
+      <point x="200" y="260"/>
+      <point x="214" y="255" type="curve"/>
+      <point x="229" y="250"/>
+      <point x="238" y="238"/>
+      <point x="233" y="226" type="curve"/>
+      <point x="205" y="143"/>
+      <point x="185" y="57"/>
+      <point x="185" y="-33" type="curve"/>
+      <point x="185" y="-263"/>
+      <point x="294" y="-436"/>
+      <point x="599" y="-436" type="curve"/>
+      <point x="891" y="-436"/>
+      <point x="1020" y="-288"/>
+      <point x="1020" y="38" type="curve"/>
+      <point x="1020" y="1292" type="line"/>
+      <point x="1020" y="1306"/>
+      <point x="1031" y="1317"/>
+      <point x="1045" y="1317" type="curve"/>
+      <point x="1059" y="1317"/>
+      <point x="1070" y="1306"/>
+      <point x="1070" y="1292" type="curve"/>
+      <point x="1070" y="349" type="line"/>
+      <point x="1070" y="177"/>
+      <point x="1149" y="62"/>
+      <point x="1311" y="62" type="curve"/>
+      <point x="1416" y="62" type="line"/>
+      <point x="1416" y="0" type="line"/>
+      <point x="1311" y="0" type="line"/>
+      <point x="1214" y="0"/>
+      <point x="1130" y="26"/>
+      <point x="1082" y="112" type="curve"/>
+      <point x="1075" y="124"/>
+      <point x="1071" y="124"/>
+      <point x="1071" y="110" type="curve"/>
+      <point x="1074" y="-223"/>
+      <point x="1017" y="-496"/>
+      <point x="599" y="-496" type="curve"/>
+      <point x="251" y="-496"/>
+      <point x="129" y="-302"/>
+      <point x="129" y="-27" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

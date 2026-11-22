@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFBAA" format="2">
+  <advance width="1485"/>
+  <unicode hex="FBAA"/>
+  <anchor x="762" y="1223" name="Anchor110"/>
+  <anchor x="660" y="-251" name="Anchor107"/>
+  <outline>
+    <component base="uni06BE"/>
+  </outline>
+</glyph>

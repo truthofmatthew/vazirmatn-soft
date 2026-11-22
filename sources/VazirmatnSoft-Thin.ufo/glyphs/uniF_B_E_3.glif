@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFBE3" format="2">
+  <advance width="881"/>
+  <unicode hex="FBE3"/>
+  <anchor x="409" y="1289" name="Anchor110"/>
+  <anchor x="427" y="-651" name="Anchor107"/>
+  <outline>
+    <component base="uni065B" xOffset="-170" yOffset="-635"/>
+    <component base="uniFEEE"/>
+  </outline>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar" format="2">
+  <advance width="524"/>
+  <unicode hex="007C"/>
+  <guideline y="901" identifier="bgnLzE5WMD"/>
+  <guideline y="555" identifier="KkciycmWse"/>
+  <outline>
+    <contour>
+      <point x="356" y="1415"/>
+      <point x="315" y="1456"/>
+      <point x="264" y="1456" type="curve" smooth="yes"/>
+      <point x="214" y="1456"/>
+      <point x="173" y="1415"/>
+      <point x="173" y="1364" type="curve"/>
+      <point x="173" y="-178" type="line"/>
+      <point x="173" y="-229"/>
+      <point x="214" y="-270"/>
+      <point x="264" y="-270" type="curve" smooth="yes"/>
+      <point x="315" y="-270"/>
+      <point x="356" y="-229"/>
+      <point x="356" y="-178" type="curve"/>
+      <point x="356" y="1364" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.KkciycmWse</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.bgnLzE5WMD</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

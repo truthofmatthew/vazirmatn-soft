@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE91.long1" format="2">
+  <advance width="614"/>
+  <anchor x="366" y="941" name="Anchor110"/>
+  <anchor x="228" y="-603" name="Anchor107"/>
+  <outline>
+    <contour>
+      <point x="-20" y="62" type="line"/>
+      <point x="64" y="62" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="-20" y="0" type="line"/>
+    </contour>
+    <component base="uni066E.init" xOffset="60"/>
+    <component base="arabic_dot" xOffset="129" yOffset="-400"/>
+  </outline>
+</glyph>

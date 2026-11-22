@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFDFC" format="2">
+  <advance width="2744"/>
+  <unicode hex="FDFC"/>
+  <outline>
+    <component base="uni0631" xOffset="2093" yOffset="-62"/>
+    <component base="arabic_2dots" xOffset="1579" yOffset="-390"/>
+    <component base="uniFBE8" xOffset="1751"/>
+    <component base="uniFE8E" xOffset="1230"/>
+    <component base="uni0644"/>
+  </outline>
+</glyph>

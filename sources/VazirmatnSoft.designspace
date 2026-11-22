@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="3.0">
+  <axes>
+    <axis tag="wght" name="weight" minimum="100" maximum="900" default="400">
+      <labelname xml:lang="en">Weight</labelname>
+      <map input="100" output="-1"/>
+      <map input="200" output="-0.55"/>
+      <map input="300" output="-0.325"/>
+      <map input="400" output="-0.1"/>
+      <map input="500" output="0.35"/>
+      <map input="600" output="0.54"/>
+      <map input="700" output="0.73"/>
+      <map input="800" output="0.9275"/>
+      <map input="900" output="1.125"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="VazirmatnSoft-Thin.ufo" name="Vazirmatn-Thin" familyname="Vazirmatn Soft" stylename="Vazirmatn-Thin">
+      <location>
+        <dimension name="weight" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="VazirmatnSoft-Regular.ufo" name="Vazirmatn" familyname="Vazirmatn Soft" stylename="Vazirmatn-Regular">
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="-0.1"/>
+      </location>
+    </source>
+    <source filename="VazirmatnSoft-Black.ufo" name="Vazirmatn-Black" familyname="Vazirmatn Soft" stylename="Vazirmatn-Black">
+      <location>
+        <dimension name="weight" xvalue="1.125"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="VazirmatnSoft-Thin" familyname="Vazirmatn Soft" stylename="Thin" filename="instances/VazirmatnSoft-Thin.ufo" postscriptfontname="VazirmatnSoft-Thin">
+      <location>
+        <dimension name="weight" xvalue="-1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="VazirmatnSoft-ExtraLight" familyname="Vazirmatn Soft" stylename="ExtraLight" filename="instances/VazirmatnSoft-ExtraLight.ufo" postscriptfontname="VazirmatnSoft-ExtraLight">
+      <location>
+        <dimension name="weight" xvalue="-0.55"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="VazirmatnSoft-Light" familyname="Vazirmatn Soft" stylename="Light" filename="instances/VazirmatnSoft-Light.ufo" postscriptfontname="VazirmatnSoft-Light">
+      <location>
+        <dimension name="weight" xvalue="-0.325"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="VazirmatnSoft-Regular" familyname="Vazirmatn Soft" stylename="Regular" filename="instances/VazirmatnSoft-Regular.ufo" postscriptfontname="VazirmatnSoft-Regular">
+      <location>
+        <dimension name="weight" xvalue="-0.1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="VazirmatnSoft-Medium" familyname="Vazirmatn Soft" stylename="Medium" filename="instances/VazirmatnSoft-Medium.ufo" postscriptfontname="VazirmatnSoft-Medium">
+      <location>
+        <dimension name="weight" xvalue="0.35"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="VazirmatnSoft-SemiBold" familyname="Vazirmatn Soft" stylename="SemiBold" filename="instances/VazirmatnSoft-SemiBold.ufo" postscriptfontname="VazirmatnSoft-SemiBold">
+      <location>
+        <dimension name="weight" xvalue="0.54"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="VazirmatnSoft-Bold" familyname="Vazirmatn Soft" stylename="Bold" filename="instances/VazirmatnSoft-Bold.ufo" postscriptfontname="VazirmatnSoft-Bold">
+      <location>
+        <dimension name="weight" xvalue="0.73"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="VazirmatnSoft-ExtraBold" familyname="Vazirmatn Soft" stylename="ExtraBold" filename="instances/VazirmatnSoft-ExtraBold.ufo" postscriptfontname="VazirmatnSoft-ExtraBold">
+      <location>
+        <dimension name="weight" xvalue="0.9275"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="VazirmatnSoft-Black" familyname="Vazirmatn Soft" stylename="Black" filename="instances/VazirmatnSoft-Black.ufo" postscriptfontname="VazirmatnSoft-Black">
+      <location>
+        <dimension name="weight" xvalue="1.125"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+</designspace>

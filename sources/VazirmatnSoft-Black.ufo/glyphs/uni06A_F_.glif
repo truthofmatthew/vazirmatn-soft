@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni06AF" format="2">
+  <advance width="1853"/>
+  <unicode hex="06AF"/>
+  <anchor x="1246" y="1569" name="Anchor110"/>
+  <anchor x="939" y="-237" name="Anchor107"/>
+  <outline>
+    <component base="arabic_gaf_bar" xOffset="1026" yOffset="-363"/>
+    <component base="uni06A9"/>
+  </outline>
+</glyph>

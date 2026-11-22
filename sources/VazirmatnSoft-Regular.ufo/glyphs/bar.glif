@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar" format="2">
+  <advance width="500"/>
+  <unicode hex="007C"/>
+  <guideline y="901" identifier="yLc4yZgyQU"/>
+  <guideline y="555" identifier="bxv17htEH1"/>
+  <outline>
+    <contour>
+      <point x="325" y="1423"/>
+      <point x="292" y="1456"/>
+      <point x="250" y="1456" type="curve" smooth="yes"/>
+      <point x="209" y="1456"/>
+      <point x="176" y="1423"/>
+      <point x="176" y="1382" type="curve"/>
+      <point x="176" y="-196" type="line"/>
+      <point x="176" y="-237"/>
+      <point x="209" y="-270"/>
+      <point x="250" y="-270" type="curve" smooth="yes"/>
+      <point x="292" y="-270"/>
+      <point x="325" y="-237"/>
+      <point x="325" y="-196" type="curve"/>
+      <point x="325" y="1382" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.bxv17htEH1</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.yLc4yZgyQU</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

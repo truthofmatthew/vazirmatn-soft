@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFEC8" format="2">
+  <advance width="1382"/>
+  <unicode hex="FEC8"/>
+  <anchor x="310" y="1478" name="Anchor110"/>
+  <anchor x="484" y="-247" name="Anchor107"/>
+  <outline>
+    <component base="arabic_dot" xOffset="738" yOffset="946"/>
+    <component base="uniFEC4"/>
+  </outline>
+</glyph>

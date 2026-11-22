@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE8E" format="2">
+  <advance width="506"/>
+  <unicode hex="FE8E"/>
+  <anchor x="206" y="1512" name="Anchor110"/>
+  <anchor x="270" y="-256" name="Anchor107"/>
+  <outline>
+    <contour>
+      <point x="182" y="1306"/>
+      <point x="193" y="1317"/>
+      <point x="208" y="1317" type="curve" smooth="yes"/>
+      <point x="222" y="1317"/>
+      <point x="233" y="1306"/>
+      <point x="233" y="1292" type="curve"/>
+      <point x="233" y="361" type="line" smooth="yes"/>
+      <point x="233" y="151"/>
+      <point x="306" y="62"/>
+      <point x="465" y="62" type="curve" smooth="yes"/>
+      <point x="570" y="62" type="line"/>
+      <point x="570" y="0" type="line"/>
+      <point x="465" y="0" type="line" smooth="yes"/>
+      <point x="257" y="0"/>
+      <point x="182" y="126"/>
+      <point x="182" y="357" type="curve" smooth="yes"/>
+      <point x="182" y="1292" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFB93" format="2">
+  <advance width="1929"/>
+  <unicode hex="FB93"/>
+  <anchor x="1216" y="1539" name="Anchor110"/>
+  <anchor x="915" y="-237" name="Anchor107"/>
+  <outline>
+    <component base="arabic_gaf_bar" xOffset="1032" yOffset="-355"/>
+    <component base="uniFB8F"/>
+  </outline>
+</glyph>

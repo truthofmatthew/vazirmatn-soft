@@ -41,7 +41,7 @@
 ```css
 @font-face {
   font-family: 'Vazirmatn Soft';
-  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.1/fonts/webfonts/VazirmatnSoft%5Bwght%5D.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.2/fonts/webfonts/VazirmatnSoft%5Bwght%5D.woff2') format('woff2');
   font-weight: 100 900;
   font-style: normal;
   font-display: swap;
@@ -61,14 +61,14 @@ body {
 ```css
 @font-face {
   font-family: 'Vazirmatn Soft';
-  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.1/fonts/webfonts/VazirmatnSoft-Regular.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.2/fonts/webfonts/VazirmatnSoft-Regular.woff2') format('woff2');
   font-weight: 400;
   font-display: swap;
 }
 
 @font-face {
   font-family: 'Vazirmatn Soft';
-  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.1/fonts/webfonts/VazirmatnSoft-Bold.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/truthofmatthew/vazirmatn-soft@v1.1.2/fonts/webfonts/VazirmatnSoft-Bold.woff2') format('woff2');
   font-weight: 700;
   font-display: swap;
 }
@@ -228,6 +228,15 @@ body {
 **دست‌نخورده.** اتصال‌ها، لیگاتورها، کرنینگ، جای اعراب، پشتیبانی فارسی، عربی، اردو و کردی، و حروف لاتین (از Roboto) دقیقاً همان وزیرمتن است.
 
 **بررسی‌شده.** همهٔ وزن‌ها بررسی‌های عمومی FontBakery را بدون خطا می‌گذرانند، هیچ خط روی‌هم‌افتاده‌ای ندارند و به گزارش Shaperglot از فارسی به‌طور کامل پشتیبانی می‌کنند.
+
+## ساخت از سورس
+
+پوشهٔ `sources/` سه مستر اصلی (Thin، Regular و Black) رو به شکل UFO همراه با designspace داره و با ابزار استاندارد گوگل فونتز ساخته می‌شه:
+
+```bash
+pip install -r requirements.txt
+cd sources && gftools builder config.yaml   # خروجی در fonts/
+```
 
 ## سازندگان و مجوز
 

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni06CD.fina" format="2">
+  <advance width="1432"/>
+  <anchor x="653" y="583" name="Anchor110"/>
+  <anchor x="826" y="-732" name="Anchor107"/>
+  <outline>
+    <contour>
+      <point x="289" y="239" type="line"/>
+      <point x="85" y="147" type="line"/>
+      <point x="96" y="199" type="line"/>
+      <point x="300" y="291" type="line"/>
+    </contour>
+    <component base="uniFEF0" xOffset="133"/>
+  </outline>
+</glyph>

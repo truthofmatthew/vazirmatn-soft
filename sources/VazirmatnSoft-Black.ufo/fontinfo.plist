@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>1638</integer>
+    <key>capHeight</key>
+    <integer>1638</integer>
+    <key>copyright</key>
+    <string>Copyright 2015 The Vazirmatn Project Authors (https://github.com/rastikerdar/vazirmatn)</string>
+    <key>descender</key>
+    <integer>-410</integer>
+    <key>familyName</key>
+    <string>Vazirmatn Soft</string>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2015/05/17 08:12:36</string>
+    <key>openTypeHheaAscender</key>
+    <integer>2100</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-1100</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDescription</key>
+    <string>The first version of Vazirmatn (formerly named Vazir) was based on DejaVu 2.35 (was committed to the public domain) to begin designing and developing this new typeface. Non-Arabic (Latin) glyphs and data in the full version are imported from Roboto Variable font (version v3.004) under the Apache License, Version 2.0. https://github.com/davelab6/Roboto-Classic</string>
+    <key>openTypeNameDesigner</key>
+    <string>Saber Rastikerdar</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Saber Rastikerdar</string>
+    <key>openTypeOS2CodePageRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>6</integer>
+      <integer>51</integer>
+      <integer>61</integer>
+    </array>
+    <key>openTypeOS2FamilyClass</key>
+    <array>
+      <integer>0</integer>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2Panose</key>
+    <array>
+      <integer>2</integer>
+      <integer>11</integer>
+      <integer>6</integer>
+      <integer>3</integer>
+      <integer>3</integer>
+      <integer>8</integer>
+      <integer>4</integer>
+      <integer>2</integer>
+      <integer>2</integer>
+      <integer>4</integer>
+    </array>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2StrikeoutPosition</key>
+    <integer>530</integer>
+    <key>openTypeOS2StrikeoutSize</key>
+    <integer>102</integer>
+    <key>openTypeOS2SubscriptXOffset</key>
+    <integer>0</integer>
+    <key>openTypeOS2SubscriptXSize</key>
+    <integer>1331</integer>
+    <key>openTypeOS2SubscriptYOffset</key>
+    <integer>286</integer>
+    <key>openTypeOS2SubscriptYSize</key>
+    <integer>1433</integer>
+    <key>openTypeOS2SuperscriptXOffset</key>
+    <integer>0</integer>
+    <key>openTypeOS2SuperscriptXSize</key>
+    <integer>1331</integer>
+    <key>openTypeOS2SuperscriptYOffset</key>
+    <integer>983</integer>
+    <key>openTypeOS2SuperscriptYSize</key>
+    <integer>1433</integer>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>2100</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-1100</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2UnicodeRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+      <integer>13</integer>
+      <integer>31</integer>
+      <integer>63</integer>
+      <integer>67</integer>
+    </array>
+    <key>openTypeOS2VendorID</key>
+    <string>    </string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>900</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>2200</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>1300</integer>
+    <key>postscriptFontName</key>
+    <string>VazirmatnSoft-Black</string>
+    <key>postscriptFullName</key>
+    <string>Vazirmatn Soft Black</string>
+    <key>postscriptIsFixedPitch</key>
+    <false/>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-730</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>100</integer>
+    <key>postscriptWeightName</key>
+    <string>Black</string>
+    <key>styleName</key>
+    <string>Black</string>
+    <key>unitsPerEm</key>
+    <integer>2048</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>120</integer>
+    <key>xHeight</key>
+    <integer>1082</integer>
+  </dict>
+</plist>

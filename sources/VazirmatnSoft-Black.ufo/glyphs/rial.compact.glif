@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rial.compact" format="2">
+  <advance width="2801"/>
+  <unicode hex="E003"/>
+  <outline>
+    <component base="uni0631" xOffset="2054" yOffset="-140"/>
+    <component base="uniFBFE" xOffset="1858" yOffset="400"/>
+    <component base="uniFE8E" xOffset="1322" yOffset="400"/>
+    <component base="uni0644" xOffset="-19" yOffset="400"/>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+build/
+.DS_Store
+# This repo holds font sources and built fonts only: no code or scripts.
+*.py
+*.sh
+*.js
+*.mjs
+*.ts
+*.pe
+*.ff
+*.rb
+*.pl
+Makefile
+scripts/
+tools/

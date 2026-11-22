@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFEFA" format="2">
+  <advance width="1234"/>
+  <unicode hex="FEFA"/>
+  <anchor x="390" y="-593" name="Anchor106"/>
+  <anchor x="897" y="-252" name="Anchor106"/>
+  <anchor x="212" y="1468" name="Anchor109"/>
+  <anchor x="929" y="1541" name="Anchor109"/>
+  <outline>
+    <component base="uni0674" xOffset="52" yOffset="-1708"/>
+    <component base="uniFEFC"/>
+  </outline>
+</glyph>

@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.1.2
+
+- Latin combining accents added (U+0302, U+0304, U+0306, U+0307, U+0308, U+030A, U+030B, U+030C, U+0326, U+0327, U+0328), so decomposed Latin text in Czech, German, Turkish, Polish, Romanian and others shapes correctly
+- Latin combining accents attach to the dotted circle ◌
+- Latin Core letters added: Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ (Welsh, German)
+- Roboto's tabular digits renamed from `.tnum` to `.tf` (no visual change)
+- `hhea.advanceWidthMax` matches the glyph widths
+- Font sources are now in this repo: the three masters as UFO + designspace, built with `gftools builder`
+
 ## 1.1.1
 
 - Compact تومان / ریال now also work on pages and documents set to Persian, Kurdish or Arabic (1.1.0 only applied them for the default language)

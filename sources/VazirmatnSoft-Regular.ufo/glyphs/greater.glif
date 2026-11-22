@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater" format="2">
+  <advance width="1071"/>
+  <unicode hex="003E"/>
+  <guideline y="181" identifier="CayZJJ7Et2"/>
+  <guideline y="526" identifier="bn60CzAEFB"/>
+  <outline>
+    <contour>
+      <point x="932" y="616" type="line"/>
+      <point x="963" y="610"/>
+      <point x="989" y="631"/>
+      <point x="989" y="664" type="curve" smooth="yes"/>
+      <point x="989" y="696"/>
+      <point x="965" y="733"/>
+      <point x="936" y="746" type="curve"/>
+      <point x="222" y="1061" type="line"/>
+      <point x="174" y="1083"/>
+      <point x="135" y="1057"/>
+      <point x="135" y="1004" type="curve" smooth="yes"/>
+      <point x="135" y="952"/>
+      <point x="175" y="893"/>
+      <point x="224" y="874" type="curve"/>
+      <point x="846" y="632" type="line"/>
+    </contour>
+    <contour>
+      <point x="175" y="404"/>
+      <point x="135" y="345"/>
+      <point x="135" y="292" type="curve" smooth="yes"/>
+      <point x="135" y="240"/>
+      <point x="174" y="214"/>
+      <point x="222" y="236" type="curve"/>
+      <point x="936" y="552" type="line"/>
+      <point x="965" y="565"/>
+      <point x="989" y="602"/>
+      <point x="989" y="634" type="curve" smooth="yes"/>
+      <point x="989" y="666"/>
+      <point x="963" y="688"/>
+      <point x="932" y="683" type="curve"/>
+      <point x="848" y="671" type="line"/>
+      <point x="224" y="423" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.CayZJJ7Et2</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.bn60CzAEFB</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

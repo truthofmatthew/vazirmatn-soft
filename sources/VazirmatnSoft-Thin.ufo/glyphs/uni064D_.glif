@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni064D" format="2">
+  <unicode hex="064D"/>
+  <anchor x="253" y="-205" name="_Anchor107"/>
+  <anchor x="253" y="-205" name="_Anchor106"/>
+  <anchor x="304" y="-610" name="Anchor100"/>
+  <anchor x="253" y="-205" name="_Anchor100"/>
+  <outline>
+    <contour>
+      <point x="66" y="-613" type="line"/>
+      <point x="66" y="-567" type="line"/>
+      <point x="478" y="-398" type="line"/>
+      <point x="478" y="-444" type="line"/>
+    </contour>
+    <contour>
+      <point x="66" y="-403" type="line"/>
+      <point x="66" y="-357" type="line"/>
+      <point x="478" y="-188" type="line"/>
+      <point x="478" y="-234" type="line"/>
+    </contour>
+  </outline>
+</glyph>

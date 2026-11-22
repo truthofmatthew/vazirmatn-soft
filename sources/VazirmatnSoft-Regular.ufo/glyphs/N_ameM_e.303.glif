@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NameMe.303" format="2">
+  <advance width="504"/>
+  <outline>
+    <contour>
+      <point x="11" y="182" type="line" smooth="yes"/>
+      <point x="152" y="182"/>
+      <point x="182" y="272"/>
+      <point x="182" y="420" type="curve" smooth="yes"/>
+      <point x="182" y="1170" type="line"/>
+      <point x="182" y="1217"/>
+      <point x="220" y="1255"/>
+      <point x="266" y="1255" type="curve" smooth="yes"/>
+      <point x="313" y="1255"/>
+      <point x="351" y="1217"/>
+      <point x="351" y="1170" type="curve"/>
+      <point x="351" y="422" type="line" smooth="yes"/>
+      <point x="351" y="152"/>
+      <point x="269" y="0"/>
+      <point x="10" y="0" type="curve" smooth="yes"/>
+      <point x="-20" y="0" type="line"/>
+      <point x="-20" y="182" type="line"/>
+    </contour>
+  </outline>
+</glyph>

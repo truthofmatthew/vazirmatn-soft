@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni06CD" format="2">
+  <advance width="1555"/>
+  <unicode hex="06CD"/>
+  <anchor x="809" y="-709" name="Anchor107"/>
+  <anchor x="690" y="765" name="Anchor110"/>
+  <outline>
+    <contour>
+      <point x="99" y="273" type="line"/>
+      <point x="100" y="280"/>
+      <point x="106" y="288"/>
+      <point x="113" y="290" type="curve"/>
+      <point x="346" y="366" type="line"/>
+      <point x="353" y="368"/>
+      <point x="357" y="364"/>
+      <point x="355" y="358" type="curve"/>
+      <point x="347" y="318" type="line"/>
+      <point x="90" y="224" type="line"/>
+    </contour>
+    <component base="uni0649" xOffset="170"/>
+  </outline>
+</glyph>

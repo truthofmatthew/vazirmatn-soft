@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFBD4" format="2">
+  <advance width="1893"/>
+  <unicode hex="FBD4"/>
+  <anchor x="952" y="1905" name="Anchor110"/>
+  <anchor x="975" y="-237" name="Anchor107"/>
+  <outline>
+    <component base="arabic_3dots" xOffset="692" yOffset="1337"/>
+    <component base="uniFEDA"/>
+  </outline>
+</glyph>

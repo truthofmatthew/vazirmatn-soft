@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LamAlefWasla" format="2">
+  <advance width="1234"/>
+  <anchor x="354" y="-256" name="Anchor106"/>
+  <anchor x="937" y="-252" name="Anchor106"/>
+  <anchor x="324" y="1880" name="Anchor109"/>
+  <anchor x="969" y="1552" name="Anchor109"/>
+  <outline>
+    <component base="NameMe.65583" xOffset="54" yOffset="201"/>
+    <component base="uniFEFB"/>
+  </outline>
+</glyph>

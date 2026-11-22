@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFEF4" format="2">
+  <advance width="743"/>
+  <unicode hex="FEF4"/>
+  <anchor x="408" y="866" name="Anchor110"/>
+  <anchor x="185" y="-587" name="Anchor107"/>
+  <outline>
+    <contour>
+      <point x="-22" y="62" type="line"/>
+      <point x="58" y="62" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="-22" y="0" type="line"/>
+    </contour>
+    <component base="arabic_2dots" xOffset="-84" yOffset="-400"/>
+    <component base="uni066E.medi" xOffset="53"/>
+  </outline>
+</glyph>

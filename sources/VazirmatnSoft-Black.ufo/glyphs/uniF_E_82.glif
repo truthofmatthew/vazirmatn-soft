@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE82" format="2">
+  <advance width="576"/>
+  <unicode hex="FE82"/>
+  <anchor x="252" y="1655" name="Anchor110"/>
+  <anchor x="365" y="-247" name="Anchor107"/>
+  <outline>
+    <component base="uni0653" xOffset="-16" yOffset="252"/>
+    <component base="NameMe.65564"/>
+  </outline>
+</glyph>

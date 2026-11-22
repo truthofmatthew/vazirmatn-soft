@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFEE4.long" format="2">
+  <advance width="1204"/>
+  <anchor x="651" y="1048" name="Anchor110"/>
+  <anchor x="600" y="-251" name="Anchor107"/>
+  <outline>
+    <contour>
+      <point x="-20" y="182" type="line"/>
+      <point x="48" y="182" type="line"/>
+      <point x="48" y="0" type="line"/>
+      <point x="-20" y="0" type="line"/>
+    </contour>
+    <component base="uniFEE4" xOffset="40"/>
+  </outline>
+</glyph>

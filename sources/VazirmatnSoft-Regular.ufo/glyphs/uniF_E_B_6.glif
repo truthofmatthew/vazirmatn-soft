@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFEB6" format="2">
+  <advance width="2533"/>
+  <unicode hex="FEB6"/>
+  <anchor x="692" y="-749" name="Anchor107"/>
+  <anchor x="1688" y="1478" name="Anchor110"/>
+  <outline>
+    <component base="arabic_3dots" xOffset="1441" yOffset="861"/>
+    <component base="uniFEB2"/>
+  </outline>
+</glyph>
